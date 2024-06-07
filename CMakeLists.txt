@@ -1,3 +1,4 @@
+#make it run github action
 cmake_minimum_required(VERSION 3.12)
 project(dynarmic LANGUAGES C CXX ASM VERSION 6.7.0)
 
